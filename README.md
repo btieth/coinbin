@@ -1,7 +1,7 @@
 will-wallet
 =======
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.4 beta by OutCast3k
+A Open Source Browser Based Bitcoin Wallet. Version 1.0 beta by BTI
 
 Live version available at https://will-wallet.com/
 
