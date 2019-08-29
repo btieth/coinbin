@@ -1,11 +1,11 @@
-coinbin
+will-wallet
 =======
 
 A Open Source Browser Based Bitcoin Wallet. Version 1.4 beta by OutCast3k
 
-Live version available at http://coinb.in/ or http://4zpinp6gdkjfplhk.onion
+Live version available at https://will-wallet.com/
 
-Github URL: https://github.com/OutCast3k/coinbin/
+Github URL: https://github.com/lbtil/coinbin
 
 Coinb.in supports a number of key features such as: 
 
@@ -30,6 +30,3 @@ Coinb.in supports a number of key features such as:
 - Replace by fee (RBF) Support
 - Segwit Support
 - Bech32 address support
-- Fee calculator - https://coinb.in/#fees
-
-Donate to 3K1oFZMks41C7qDYBsr72SYjapLqDuSYuN to see more development!
